@@ -5,3 +5,5 @@
 **These characters will be bold**
 
 *This text is italicized*
+
+~~This was mistaken text~~

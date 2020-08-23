@@ -40,5 +40,5 @@ This file is created by [sajid](https://github.com/sajid507)
      
      
 Task list
--[ ] first task
--[ ] second task
+- [ ] first task
+- [x] second task

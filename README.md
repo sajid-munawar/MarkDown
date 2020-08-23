@@ -13,3 +13,5 @@
 
 He said:
 > Now or Never
+
+`print` is a pre-defined  `function` in python.

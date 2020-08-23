@@ -24,3 +24,8 @@ git add
 git commit
 ```
 This file is created by [sajid](https://github.com/sajid507)
+
+
+- George Washington
+- John Adams
+- Thomas Jefferson

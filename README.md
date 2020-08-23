@@ -15,3 +15,11 @@ He said:
 > Now or Never
 
 `print` is a pre-defined  `function` in python.
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```

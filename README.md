@@ -7,3 +7,6 @@
 *This text is italicized*
 
 ~~This was mistaken text~~
+
+
+***All bold and italic***
